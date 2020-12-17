@@ -43,7 +43,7 @@ The following is an aggregation of threat intel sources for the **SolarWinds Ori
 - [Security Advisory - Active Exploitation of SolarWinds Software](https://us-cert.cisa.gov/ncas/current-activity/2020/12/13/active-exploitation-solarwinds-software)
 - [Alert (AA20-352A) Advanced Persistent Threat Compromise of Government Agencies, Critical Infrastructure, and Private Sector Organizations](https://us-cert.cisa.gov/ncas/alerts/aa20-352a)
 
-## Security Resources
+## Vendor Security Resources
 - [Elastic Security provides free and open protections for SUNBURST](https://www.elastic.co/blog/elastic-security-provides-free-and-open-protections-for-sunburst)
 - [Finding SUNBURST backdoor with Zeek logs & Corelight](https://corelight.blog/2020/12/15/finding-sunburst-backdoor-with-zeek-logs-and-corelight/)
 - [Using Splunk to Detect Sunburst Backdoor](https://www.splunk.com/en_us/blog/security/sunburst-backdoor-detections-in-splunk.html)
