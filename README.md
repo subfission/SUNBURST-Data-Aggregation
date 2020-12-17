@@ -1,7 +1,7 @@
 # SUNBURST Data Aggregation
 The following is an aggregation of threat intel sources for the **SolarWinds Orion** (**SUNBURST**) attack.
 
-*Note: I do not own or maintain these resources and make no claim as to the validity or safety of these resources.*
+*Note: I do not own, maintain, or make no claim as to the validity or safety of these resources.*
 
 ## Open Source Resources
  1. [Mandiant SunBurst Countermeasures by FireEye](https://github.com/fireeye/sunburst_countermeasures)
