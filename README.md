@@ -14,7 +14,7 @@ The following is an aggregation of threat intel sources for the **SolarWinds Ori
  8. [Quick lookup files for SUNBURST Backdoor by rkovar](https://github.com/rkovar/sunburstlookups)
  9. [Alienvault OTX Threat Intel](https://otx.alienvault.com/pulse/5fd6df943558e0b56eaf3da8)
 10. [Azure-Sentinel-Notebooks Guided Hunting - Solarwinds Post Compromise](https://github.com/Azure/Azure-Sentinel-Notebooks/blob/fdcc923d15d9aeb9f99bf78ed66d9fb0de29b3d6/Guided%20Investigation%20-%20Solarwinds%20Post%20Compromise%20Activity.ipynb)
-11. [Credential Dumping Tool for SolarWinds Orion](https://github.com/mubix/solarflare)
+11. [Credential Dumping Tool for SolarWinds Orion by mubix](https://github.com/mubix/solarflare)
 
 ## News Media
 - [FireEye Threat Research - Highly Evasive Attacker Leverages SolarWinds Supply Chain to Compromise Multiple Global Victims With SUNBURST Backdoor](https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html)
