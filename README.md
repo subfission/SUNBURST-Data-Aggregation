@@ -15,14 +15,14 @@ The following is an aggregation of threat intel sources for the **SolarWinds Ori
  9. [Alienvault OTX Threat Intel](https://otx.alienvault.com/pulse/5fd6df943558e0b56eaf3da8)
 
 ## News Media
+- [FireEye Threat Research - Highly Evasive Attacker Leverages SolarWinds Supply Chain to Compromise Multiple Global Victims With SUNBURST Backdoor](https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html)
+- https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html
 - https://www.domaintools.com/resources/blog/unraveling-network-infrastructure-linked-to-the-solarwinds-hack
 - https://www.reuters.com/article/global-cyber-solarwinds-idUSKBN28P2N8
-- https://support.solarwinds.com/SuccessCenter/s/article/Orion-Platform-2020-2-1-Hotfix-2?language=en_US
 - https://www.microsoft.com/security/blog/2020/12/15/ensuring-customers-are-protected-from-solorigate/
 - https://www.tenable.com/blog/solorigate-solarwinds-orion-platform-contained-a-backdoor-since-march-2020-sunburst
 - https://threatpost.com/solarwinds-default-password-access-sales/162327/
 - https://blog.rapid7.com/2020/12/14/solarwinds-sunburst-backdoor-supply-chain-attack-what-you-need-to-know/
-- https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html
 - https://unit42.paloaltonetworks.com/fireeye-solarstorm-sunburst/
 - https://www.volexity.com/blog/2020/12/14/dark-halo-leverages-solarwinds-compromise-to-breach-organizations/
 - https://blog.talosintelligence.com/2020/12/solarwinds-supplychain-coverage.html
@@ -36,5 +36,9 @@ The following is an aggregation of threat intel sources for the **SolarWinds Ori
 - [Finding SUNBURST backdoor with Zeek logs & Corelight](https://corelight.blog/2020/12/15/finding-sunburst-backdoor-with-zeek-logs-and-corelight/)
 - [Using Splunk to Detect Sunburst Backdoor](https://www.splunk.com/en_us/blog/security/sunburst-backdoor-detections-in-splunk.html)
 - [Microsoft - Important steps for customers to protect themselves from recent nation-state cyberattacks](https://blogs.microsoft.com/on-the-issues/2020/12/13/customers-protect-nation-state-cyberattacks/)
+
+## Hotfix
+- [SolarWinds Hotfix 2](https://support.solarwinds.com/SuccessCenter/s/article/Orion-Platform-2020-2-1-Hotfix-2?language=en_US)
+
 
 Please use this to protect yourself and your assets.  Feel free to add pull requests for additional resources.
