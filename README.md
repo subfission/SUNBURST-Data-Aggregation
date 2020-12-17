@@ -18,6 +18,7 @@ The following is an aggregation of threat intel sources for the **SolarWinds Ori
 ## News Media
 - [FireEye Threat Research - Highly Evasive Attacker Leverages SolarWinds Supply Chain to Compromise Multiple Global Victims With SUNBURST Backdoor](https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html)
 - https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html
+- [FireEye Identifies Killswitch for SolarWinds Malware as Victims Scramble to Respond](https://www.darkreading.com/attacks-breaches/fireeye-identifies-killswitch-for-solarwinds-malware-as-victims-scramble-to-respond/d/d-id/1339746)
 - https://www.domaintools.com/resources/blog/unraveling-network-infrastructure-linked-to-the-solarwinds-hack
 - https://www.reuters.com/article/global-cyber-solarwinds-idUSKBN28P2N8
 - https://www.microsoft.com/security/blog/2020/12/15/ensuring-customers-are-protected-from-solorigate/
