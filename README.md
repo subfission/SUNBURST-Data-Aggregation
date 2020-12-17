@@ -36,6 +36,7 @@ The following is an aggregation of threat intel sources for the **SolarWinds Ori
 - [Twitter #SolarWindsOrion](https://twitter.com/hashtag/SolarWindsOrion)
 - [Twitter #solarwinds123](https://twitter.com/hashtag/solarwinds123)
 - [Twitter #solorigate](https://twitter.com/hashtag/solorigate)
+- [Twitter #solorigate](https://twitter.com/hashtag/SolarWindsHack)
 
 ## Cybersecurity and Infrastructure Security Agency (CISA)
 - [Emergency Directive 21-01](https://cyber.dhs.gov/ed/21-01/)
