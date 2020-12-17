@@ -27,7 +27,4 @@ The following is an aggregation of threat intel sources for the **SolarWinds Ori
 - https://cyber.dhs.gov/ed/21-01/
 - https://us-cert.cisa.gov/ncas/current-activity/2020/12/13/active-exploitation-solarwinds-software
 
-## License
-- MIT
-
 Please use this to protect yourself and your assets.  Feel free to add pull requests for additional resources.
