@@ -28,8 +28,8 @@ The following is an aggregation of threat intel sources for the **SolarWinds Ori
 - https://blog.talosintelligence.com/2020/12/solarwinds-supplychain-coverage.html
 
 ## Cybersecurity and Infrastructure Security Agency (CISA)
-- https://cyber.dhs.gov/ed/21-01/
-- https://us-cert.cisa.gov/ncas/current-activity/2020/12/13/active-exploitation-solarwinds-software
+- [Emergency Directive 21-01](https://cyber.dhs.gov/ed/21-01/)
+- [Security Advisory - Active Exploitation of SolarWinds Software](https://us-cert.cisa.gov/ncas/current-activity/2020/12/13/active-exploitation-solarwinds-software)
 
 ## Security Resources
 - [Elastic Security provides free and open protections for SUNBURST](https://www.elastic.co/blog/elastic-security-provides-free-and-open-protections-for-sunburst)
