@@ -28,6 +28,13 @@ The following is an aggregation of threat intel sources for the **SolarWinds Ori
 - https://www.volexity.com/blog/2020/12/14/dark-halo-leverages-solarwinds-compromise-to-breach-organizations/
 - https://blog.talosintelligence.com/2020/12/solarwinds-supplychain-coverage.html
 
+## Social Media
+- [Twitter #UNC2452](https://twitter.com/hashtag/UNC2452)
+- [Twitter #SUNBURST](https://twitter.com/hashtag/SUNBURST)
+- [Twitter #SolarWindsOrion](https://twitter.com/hashtag/SolarWindsOrion)
+- [Twitter #solarwinds123](https://twitter.com/hashtag/solarwinds123)
+- [Twitter #solorigate](https://twitter.com/hashtag/solorigate)
+
 ## Cybersecurity and Infrastructure Security Agency (CISA)
 - [Emergency Directive 21-01](https://cyber.dhs.gov/ed/21-01/)
 - [Security Advisory - Active Exploitation of SolarWinds Software](https://us-cert.cisa.gov/ncas/current-activity/2020/12/13/active-exploitation-solarwinds-software)
