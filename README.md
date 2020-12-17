@@ -17,17 +17,17 @@ The following is an aggregation of threat intel sources for the **SolarWinds Ori
 
 ## News Media
 - [FireEye Threat Research - Highly Evasive Attacker Leverages SolarWinds Supply Chain to Compromise Multiple Global Victims With SUNBURST Backdoor](https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html)
-- https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html
+- [FireEye Shares Details of Recent Cyber Attack, Actions to Protect Community](https://www.fireeye.com/blog/products-and-services/2020/12/fireeye-shares-details-of-recent-cyber-attack-actions-to-protect-community.html)
 - [FireEye Identifies Killswitch for SolarWinds Malware as Victims Scramble to Respond](https://www.darkreading.com/attacks-breaches/fireeye-identifies-killswitch-for-solarwinds-malware-as-victims-scramble-to-respond/d/d-id/1339746)
-- https://www.domaintools.com/resources/blog/unraveling-network-infrastructure-linked-to-the-solarwinds-hack
-- https://www.reuters.com/article/global-cyber-solarwinds-idUSKBN28P2N8
-- https://www.microsoft.com/security/blog/2020/12/15/ensuring-customers-are-protected-from-solorigate/
-- https://www.tenable.com/blog/solorigate-solarwinds-orion-platform-contained-a-backdoor-since-march-2020-sunburst
-- https://threatpost.com/solarwinds-default-password-access-sales/162327/
-- https://blog.rapid7.com/2020/12/14/solarwinds-sunburst-backdoor-supply-chain-attack-what-you-need-to-know/
-- https://unit42.paloaltonetworks.com/fireeye-solarstorm-sunburst/
-- https://www.volexity.com/blog/2020/12/14/dark-halo-leverages-solarwinds-compromise-to-breach-organizations/
-- https://blog.talosintelligence.com/2020/12/solarwinds-supplychain-coverage.html
+- [DomainTools - Unraveling Network Infrastructure Linked to the SolarWinds Hack](https://www.domaintools.com/resources/blog/unraveling-network-infrastructure-linked-to-the-solarwinds-hack)
+- [Hackers used SolarWinds' dominance against it in sprawling spy campaign](https://www.reuters.com/article/us-global-cyber-solarwinds/hackers-at-center-of-sprawling-spy-campaign-turned-solarwinds-dominance-against-it-idUSKBN28P2N8)
+- [Microsoft - Ensuring customers are protected from Solorigate]https://www.microsoft.com/security/blog/2020/12/15/ensuring-customers-are-protected-from-solorigate/)
+- [Solorigate: SolarWinds Orion Platform Contained a Backdoor Since March 2020 (SUNBURST)](https://www.tenable.com/blog/solorigate-solarwinds-orion-platform-contained-a-backdoor-since-march-2020-sunburst)
+- [The SolarWinds Perfect Storm: Default Password, Access Sales and More](https://threatpost.com/solarwinds-default-password-access-sales/162327/)
+- [Rapid7 - SolarWinds SUNBURST Backdoor Supply Chain Attack: What You Need to Know](https://blog.rapid7.com/2020/12/14/solarwinds-sunburst-backdoor-supply-chain-attack-what-you-need-to-know/)
+- [Unit42 - Threat Brief: SolarStorm and SUNBURST Customer Coverage](https://unit42.paloaltonetworks.com/fireeye-solarstorm-sunburst/)
+- [Dark Halo Leverages SolarWinds Compromise to Breach Organizations](https://www.volexity.com/blog/2020/12/14/dark-halo-leverages-solarwinds-compromise-to-breach-organizations/)
+- [Talos - Threat Advisory: SolarWinds supply chain attack](https://blog.talosintelligence.com/2020/12/solarwinds-supplychain-coverage.html)
 
 ## Social Media
 - [Twitter #UNC2452](https://twitter.com/hashtag/UNC2452)
