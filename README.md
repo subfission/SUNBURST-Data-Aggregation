@@ -29,6 +29,10 @@ The following is an aggregation of threat intel sources for the **SolarWinds Ori
 - [Unit42 - Threat Brief: SolarStorm and SUNBURST Customer Coverage](https://unit42.paloaltonetworks.com/fireeye-solarstorm-sunburst/)
 - [Dark Halo Leverages SolarWinds Compromise to Breach Organizations](https://www.volexity.com/blog/2020/12/14/dark-halo-leverages-solarwinds-compromise-to-breach-organizations/)
 - [Talos - Threat Advisory: SolarWinds supply chain attack](https://blog.talosintelligence.com/2020/12/solarwinds-supplychain-coverage.html)
+- [Cnet - SolarWinds hack hits major tech companies and hospital system: What you need to know](https://www.cnet.com/news/solarwinds-hack-hits-major-tech-companies-and-hospital-system-what-you-need-to-know/)
+- [ZDNet - A second hacking group has targeted SolarWinds systems](https://www.zdnet.com/article/a-second-hacking-group-has-targeted-solarwinds-systems/)
+- [Cisco targeted in SolarWinds attack as Microsoft uncovers a second hacking group](https://siliconangle.com/2020/12/20/cisco-targeted-solarwinds-attack-microsoft-uncovers-second-hacking-group/)
+- [Bloomberg - SolarWinds Adviser Warned of Lax Security Years Before Hack](https://www.bloomberg.com/news/articles/2020-12-21/solarwinds-adviser-warned-of-lax-security-years-before-hack)
 
 ## Social Media
 - [Twitter #UNC2452](https://twitter.com/hashtag/UNC2452)
