@@ -33,6 +33,7 @@ The following is an aggregation of threat intel sources for the **SolarWinds Ori
 - [ZDNet - A second hacking group has targeted SolarWinds systems](https://www.zdnet.com/article/a-second-hacking-group-has-targeted-solarwinds-systems/)
 - [Cisco targeted in SolarWinds attack as Microsoft uncovers a second hacking group](https://siliconangle.com/2020/12/20/cisco-targeted-solarwinds-attack-microsoft-uncovers-second-hacking-group/)
 - [Bloomberg - SolarWinds Adviser Warned of Lax Security Years Before Hack](https://www.bloomberg.com/news/articles/2020-12-21/solarwinds-adviser-warned-of-lax-security-years-before-hack)
+- [TRUESEC - The SolarWinds Orion SUNBURST supply-chain Attack](https://blog.truesec.com/2020/12/17/the-solarwinds-orion-sunburst-supply-chain-attack/)
 
 ## Social Media
 - [Twitter #UNC2452](https://twitter.com/hashtag/UNC2452)
