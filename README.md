@@ -55,6 +55,7 @@ The following is an aggregation of threat intel sources for the **SolarWinds Ori
 - [Using Splunk to Detect Sunburst Backdoor](https://www.splunk.com/en_us/blog/security/sunburst-backdoor-detections-in-splunk.html)
 - [Microsoft - Important steps for customers to protect themselves from recent nation-state cyberattacks](https://blogs.microsoft.com/on-the-issues/2020/12/13/customers-protect-nation-state-cyberattacks/)
 - [SANS Emergency Webcast: What you need to know about the SolarWinds Supply-Chain Attack](https://www.youtube.com/watch?v=qP3LQNsjKWw)
+- [Corelight: Finding SolarWinds / SUNBURST backdoors with Zeek & Corelight](https://www.youtube.com/watch?v=zGlxC-nGEzE)
 
 ## Hotfix
 - [SolarWinds Hotfix 2](https://support.solarwinds.com/SuccessCenter/s/article/Orion-Platform-2020-2-1-Hotfix-2?language=en_US)
